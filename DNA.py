@@ -2,13 +2,7 @@
 
 #  Description: This program will find the longest common base sequence in two strands of DNA. The user inputs two strands of DNA and the output are longest common subsequences.
 
-#  Student Name: Alexis Emperador
-
-#  Student UT EID: ase369
-
-#  Course Name: CS 303E
-
-#  Unique Number: 52220
+#  Developer Name: Alexis Emperador
 
 #  Date Created: 10/13/10
 

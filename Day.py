@@ -2,13 +2,7 @@
 
 #  Description: This program calculates the day of the week.
 
-#  Student Name: Alexis Emperador
-
-#  Student UT EID: ase369
-
-#  Course Name: CS 303E
-
-#  Unique Number: 52220
+#  Developer Name: Alexis Emperador
 
 #  Date Created: 9/23/10
 

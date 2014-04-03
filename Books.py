@@ -2,13 +2,7 @@
 
 #  Description: This program takes in two books as text and compares their word frequency to output the differences in words between authors of the books.
 
-#  Student Name: Alexis Emperador
-
-#  Student UT EID: ase369
-
-#  Course Name: CS 303E
-
-#  Unique Number: 52220
+#  Developer Name: Alexis Emperador
 
 #  Date Created: 11/21/10
 

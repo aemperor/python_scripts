@@ -2,13 +2,7 @@
 
 #  Description: This program calculates the square root of a number n and returns the square root and the difference.
 
-#  Student Name: Alexis Emperador
-
-#  Student UT EID: ase369
-
-#  Course Name: CS 303E
-
-#  Unique Number: 52220
+#  Developer Name: Alexis Emperador
 
 #  Date Created: 9/29/10
 

@@ -3,13 +3,7 @@
 #  Description: This program checks to see if a square amount of numbers is a Magic Square. It
 #               takes a user specified file as input and returns an output to another user specified file.
 
-#  Student Name: Alexis Emperador
-
-#  Student UT EID: ase369
-
-#  Course Name: CS 303E
-
-#  Unique Number: 52220
+#  Developer Name: Alexis Emperador
 
 #  Date Created: 11/4/10
 

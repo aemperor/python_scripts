@@ -2,13 +2,7 @@
 
 #  Description: This program encrypts or decrypts the user specified file to the parameter (also user specified) and prints the output in the user specified output file. It uses the Cesar Cipher algorithm.
 
-#  Student Name: Alexis Emperador
-
-#  Student UT EID: ase369
-
-#  Course Name: CS 303E
-
-#  Unique Number: 52220
+#  Developer Name: Alexis Emperador
 
 #  Date Created: 10/21/10
 

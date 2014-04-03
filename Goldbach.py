@@ -2,13 +2,7 @@
 
 #  Description: This program verifies Goldbach's conjecture in the range 4 through 100 inclusively. It prints out all even numbers in that range.
 
-#  Student Name: Alexis Emperador
-
-#  Student UT EID: ase369   
-
-#  Course Name: CS 303E
-
-#  Unique Number: 52220
+#  Developer Name: Alexis Emperador
 
 #  Date Created: 10/7/10
 

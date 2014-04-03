@@ -2,13 +2,7 @@
 
 #  Description: This is a game that guesses a number between 1 and 100 that the user is thinking within in 7 tries or less.
 
-#  Student Name: Alexis Emperador
-
-#  Student UT EID: ase369
-
-#  Course Name: CS 303E
-
-#  Unique Number: 52220
+#  Developer Name: Alexis Emperador
 
 #  Date Created: 11/10/10
 

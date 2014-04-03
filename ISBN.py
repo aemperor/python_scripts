@@ -3,13 +3,7 @@
 #  Description: This program takes an input file and checks each ISBN number in the input and returns the output to an output file with "valid" or "invalid"
 #               next to the ISBN number depending on whether it is a valid or invalid ISBN number.
 
-#  Student Name: Alexis Emperador
-
-#  Student UT EID: ase369
-
-#  Course Name: CS 303E
-
-#  Unique Number: 52220
+#  Developer Name: Alexis Emperador
 
 #  Date Created: 10/27/10
 
